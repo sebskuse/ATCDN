@@ -1,6 +1,6 @@
 [submodule "ATBar2"]
 	path = ATBar2
-	url = git@github.com:AccessAtECS/ATBar.git
+	url = git://github.com/AccessAtECS/ATBar.git
 [submodule "atkit"]
 	path = atkit
-	url = git@github.com:AccessAtECS/AtKit.git
+	url = git://github.com/AccessAtECS/AtKit.git
